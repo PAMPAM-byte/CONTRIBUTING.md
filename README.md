@@ -1,0 +1,2 @@
+# CONTRIBUTING.md
+A new repo on CONTRIBUTING.md
